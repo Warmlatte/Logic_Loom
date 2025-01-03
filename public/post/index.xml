@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Logic Loom 🧠🕸️</title>
+    <link>//localhost:1313/post/</link>
+    <description>Recent content in Posts on Logic Loom 🧠🕸️</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-TW</language>
+    <managingEditor>latte.0975582420@gmail.com (Latte)</managingEditor>
+    <webMaster>latte.0975582420@gmail.com (Latte)</webMaster>
+    <copyright>© 2025 Latte</copyright>
+    <lastBuildDate>Thu, 02 Jan 2025 21:23:31 +0800</lastBuildDate><atom:link href="//localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
